@@ -13,7 +13,7 @@ const portfolioData = {
     phone: "+91-9322372250",
     linkedin: "https://linkedin.com/in/krushna-patil",
     linkedinDisplay: "linkedin.com/in/krushna-patil",
-    resumeUrl: "./public/Shreekrishna_Gajanan_Patil_Resume.pdf",
+    resumeUrl: "./assets/Shreekrishna_Gajanan_Patil_Resume.pdf",
     location: "Pune / Amravati, Maharashtra, India"
   },
 
